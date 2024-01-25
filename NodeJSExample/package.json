@@ -1,0 +1,19 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "W03 Activity: Create a NodeJS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoMosiah/CIT-262.git"
+  },
+  "author": "LeoMosiah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeoMosiah/CIT-262/issues"
+  },
+  "homepage": "https://github.com/LeoMosiah/CIT-262#readme"
+}
