@@ -4,7 +4,8 @@
   "description": "W03 Activity: Create a NodeJS Project",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "hello":"node helloworld.js"
   },
   "repository": {
     "type": "git",
