@@ -1,0 +1,26 @@
+{
+  "name": "api-tests",
+  "version": "1.0.0",
+  "description": "W8: 2 Automated API Integration Testing - using fetch and jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoMosiah/CIT-262.git"
+  },
+  "keywords": [
+    "devops"
+  ],
+  "author": "LeoMosiah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeoMosiah/CIT-262/issues"
+  },
+  "homepage": "https://github.com/LeoMosiah/CIT-262#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "node-fetch2": "^1.6.3"
+  }
+}
