@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: leonardo-api
-          image: us-docker.pkg.dev/cit-262-418012/leonardo-api/api-tests:latest # IMAGE NEEDS TO BE ARTIFACT REGISTRY NEW REPOSITORY
+          image: us-west3-docker.pkg.dev/kubernets-418109/leonardo-api/api-tests:latest # IMAGE NEEDS TO BE ARTIFACT REGISTRY NEW REPOSITORY
           ports:
             - containerPort: 8080
           resources:
